@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956781565906",
+    "project_id": "ecommerce-78aab",
+    "storage_bucket": "ecommerce-78aab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956781565906:android:ecf7d72f2887c69107da0b",
+        "android_client_info": {
+          "package_name": "as.alhamza.first_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZQi9mA_F5eGJfvG84UmcftAQ29unysx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
